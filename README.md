@@ -326,14 +326,14 @@ For educational and non-commercial use.
 
 ## 👤 Author
 
-**Your Name**
+- Name: Joe Regan
 - Course: CISC 683 - Object-Oriented Design
 - Semester: Fall 2025
-- Institution: [Your University]
+- Institution: Nova Southeastern University
 
 ## 🙏 Acknowledgments
 
-- Assignment designed by CISC 683 course instructor
+- Assignment designed by Dr. Michael Laszlo
 - Victor gem by Danny Ben Shitrit
 - Sinatra web framework by Blake Mizerany
 
