@@ -1,0 +1,27 @@
+<svg width="402" height="421" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="381.8033988749895" y1="210.21130325903073" x2="243.606797749979" y2="400.42260651806146" stroke="red" stroke-width="2"/>
+<line x1="243.606797749979" y1="400.42260651806146" x2="20.00000000000003" y2="327.7683537175253" stroke="red" stroke-width="2"/>
+<line x1="20.00000000000003" y1="327.7683537175253" x2="20.0" y2="92.65425280053614" stroke="red" stroke-width="2"/>
+<line x1="20.0" y1="92.65425280053614" x2="243.60679774997894" y2="20.0" stroke="red" stroke-width="2"/>
+<circle cx="381.8033988749895" cy="210.21130325903073" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="381.8033988749895" y="214.21130325903073" text-anchor="middle" font-size="12" fill="black">
+v0
+</text>
+<circle cx="243.606797749979" cy="400.42260651806146" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="243.606797749979" y="404.42260651806146" text-anchor="middle" font-size="12" fill="black">
+v1
+</text>
+<circle cx="20.00000000000003" cy="327.7683537175253" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="20.00000000000003" y="331.7683537175253" text-anchor="middle" font-size="12" fill="black">
+v2
+</text>
+<circle cx="20.0" cy="92.65425280053614" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="20.0" y="96.65425280053614" text-anchor="middle" font-size="12" fill="black">
+v3
+</text>
+<circle cx="243.60679774997894" cy="20.0" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="243.60679774997894" y="24.0" text-anchor="middle" font-size="12" fill="black">
+v4
+</text>
+</svg>

@@ -1,0 +1,96 @@
+<svg width="440" height="434" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="420.0" y1="216.96155060244163" x2="32.06147584281831" y2="148.55752193730788" stroke="red" stroke-width="2"/>
+<line x1="420.0" y1="216.96155060244163" x2="185.27036446661396" y2="20.00000000000003" stroke="red" stroke-width="2"/>
+<line x1="373.2088886237956" y1="345.5190725397496" x2="185.27036446661396" y2="413.9231012048832" stroke="red" stroke-width="2"/>
+<line x1="373.2088886237956" y1="345.5190725397496" x2="20.0" y2="216.96155060244163" stroke="red" stroke-width="2"/>
+<line x1="119.99999999999989" y1="43.756469845553966" x2="373.2088886237956" y2="345.5190725397496" stroke="red" stroke-width="2"/>
+<line x1="254.729635533386" y1="20.0" x2="373.2088886237956" y2="345.5190725397496" stroke="red" stroke-width="2"/>
+<line x1="66.79111137620438" y1="88.40402866513378" x2="320.0" y2="390.16663135932936" stroke="red" stroke-width="2"/>
+<line x1="119.99999999999989" y1="43.756469845553966" x2="320.0" y2="390.16663135932936" stroke="red" stroke-width="2"/>
+<line x1="254.7296355333861" y1="413.9231012048832" x2="185.27036446661396" y2="413.9231012048832" stroke="red" stroke-width="2"/>
+<line x1="66.79111137620441" y1="345.5190725397496" x2="20.0" y2="216.96155060244163" stroke="red" stroke-width="2"/>
+<line x1="66.79111137620438" y1="88.40402866513378" x2="66.79111137620441" y2="345.5190725397496" stroke="red" stroke-width="2"/>
+<line x1="254.729635533386" y1="20.0" x2="32.06147584281834" y2="285.3655792675754" stroke="red" stroke-width="2"/>
+<line x1="407.93852415718163" y1="148.55752193730777" x2="32.06147584281834" y2="285.3655792675754" stroke="red" stroke-width="2"/>
+<line x1="185.27036446661396" y1="20.00000000000003" x2="20.0" y2="216.96155060244163" stroke="red" stroke-width="2"/>
+<line x1="254.729635533386" y1="20.0" x2="20.0" y2="216.96155060244163" stroke="red" stroke-width="2"/>
+<line x1="373.2088886237956" y1="88.40402866513372" x2="20.0" y2="216.96155060244163" stroke="red" stroke-width="2"/>
+<line x1="66.79111137620438" y1="88.40402866513378" x2="185.27036446661396" y2="20.00000000000003" stroke="red" stroke-width="2"/>
+<line x1="66.79111137620438" y1="88.40402866513378" x2="320.0" y2="43.75646984555391" stroke="red" stroke-width="2"/>
+<line x1="119.99999999999989" y1="43.756469845553966" x2="185.27036446661396" y2="20.00000000000003" stroke="red" stroke-width="2"/>
+<line x1="320.0" y1="43.75646984555391" x2="407.93852415718163" y2="148.55752193730777" stroke="red" stroke-width="2"/>
+<line x1="373.2088886237956" y1="88.40402866513372" x2="407.93852415718163" y2="148.55752193730777" stroke="red" stroke-width="2"/>
+<circle cx="420.0" cy="216.96155060244163" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="420.0" y="220.96155060244163" text-anchor="middle" font-size="12" fill="black">
+v0
+</text>
+<circle cx="407.93852415718175" cy="285.3655792675754" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="407.93852415718175" y="289.3655792675754" text-anchor="middle" font-size="12" fill="black">
+v1
+</text>
+<circle cx="373.2088886237956" cy="345.5190725397496" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="373.2088886237956" y="349.5190725397496" text-anchor="middle" font-size="12" fill="black">
+v2
+</text>
+<circle cx="320.0" cy="390.16663135932936" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="320.0" y="394.16663135932936" text-anchor="middle" font-size="12" fill="black">
+v3
+</text>
+<circle cx="254.7296355333861" cy="413.9231012048832" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="254.7296355333861" y="417.9231012048832" text-anchor="middle" font-size="12" fill="black">
+v4
+</text>
+<circle cx="185.27036446661396" cy="413.9231012048832" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="185.27036446661396" y="417.9231012048832" text-anchor="middle" font-size="12" fill="black">
+v5
+</text>
+<circle cx="120.0" cy="390.1666313593295" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="120.0" y="394.1666313593295" text-anchor="middle" font-size="12" fill="black">
+v6
+</text>
+<circle cx="66.79111137620441" cy="345.5190725397496" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="66.79111137620441" y="349.5190725397496" text-anchor="middle" font-size="12" fill="black">
+v7
+</text>
+<circle cx="32.06147584281834" cy="285.3655792675754" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="32.06147584281834" y="289.3655792675754" text-anchor="middle" font-size="12" fill="black">
+v8
+</text>
+<circle cx="20.0" cy="216.96155060244163" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="20.0" y="220.96155060244163" text-anchor="middle" font-size="12" fill="black">
+v9
+</text>
+<circle cx="32.06147584281831" cy="148.55752193730788" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="32.06147584281831" y="152.55752193730788" text-anchor="middle" font-size="12" fill="black">
+v10
+</text>
+<circle cx="66.79111137620438" cy="88.40402866513378" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="66.79111137620438" y="92.40402866513378" text-anchor="middle" font-size="12" fill="black">
+v11
+</text>
+<circle cx="119.99999999999989" cy="43.756469845553966" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="119.99999999999989" y="47.756469845553966" text-anchor="middle" font-size="12" fill="black">
+v12
+</text>
+<circle cx="185.27036446661396" cy="20.00000000000003" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="185.27036446661396" y="24.00000000000003" text-anchor="middle" font-size="12" fill="black">
+v13
+</text>
+<circle cx="254.729635533386" cy="20.0" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="254.729635533386" y="24.0" text-anchor="middle" font-size="12" fill="black">
+v14
+</text>
+<circle cx="320.0" cy="43.75646984555391" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="320.0" y="47.75646984555391" text-anchor="middle" font-size="12" fill="black">
+v15
+</text>
+<circle cx="373.2088886237956" cy="88.40402866513372" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="373.2088886237956" y="92.40402866513372" text-anchor="middle" font-size="12" fill="black">
+v16
+</text>
+<circle cx="407.93852415718163" cy="148.55752193730777" r="10" fill="lightblue" stroke="black" stroke-width="2"/>
+<text x="407.93852415718163" y="152.55752193730777" text-anchor="middle" font-size="12" fill="black">
+v17
+</text>
+</svg>
